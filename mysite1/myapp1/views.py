@@ -3,7 +3,7 @@ from .models import ContactList
 from django.http import HttpResponseRedirect
 from django.shortcuts import get_object_or_404, redirect, render
 from datetime import date
-from dateutil.relativedelta import relativedelta
+#from dateutil.relativedelta import relativedelta
 
 
 #Create your views here.
